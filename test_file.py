@@ -1,7 +1,7 @@
 import nbformat
 import pytest
 import numpy as np
-from cnnb.XORNN import *
+##from cnnb.XORNN import *
 
 class TestModel:
     @pytest.fixture(autouse=True)
